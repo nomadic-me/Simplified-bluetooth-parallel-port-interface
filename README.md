@@ -19,7 +19,7 @@ You can download the 'paramon.exe' which is a great software to monitor your sta
 <span>             |<span>
 ---                |---
 **Submitted On**   |2005-08-25 11:57:16
-**By**             |[Satish Surath](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByAuthor/satish-surath.md)
+**By**             |[Satish Surath](https://github.com/nomadic-me/PSCIndex/blob/master/ByAuthor/satish-surath.md)
 **Level**          |Beginner
 **User Rating**    |3.8 (15 globes from 4 users)
 **Compatibility**  |VB 5\.0, VB 6\.0

@@ -1,18 +1,20 @@
 ﻿<div align="center">
 
-## simplified bluetooth \- parallel port interface
+## Simplified Bluetooth (via Text Files) \- Parallel Port Interface
 
 <img src="PIC20058251623563152.jpg">
 </div>
 
 ### Description
 
-this is a stripped, simplified, elegant yet powerful way to acess a host's parallel port via a bluetooth device wirelessly
+This is a stripped, simplified, elegant yet powerful way to acess a host's parallel port (by sending commands via txt files) via a bluetooth device wirelessly.
  
-### More Info
+### Prerequites
  
-people.. please please.. before you start complaining.. you need to download a io.dll file from geekhideout.com and paste it to your c:\Windows\System\ folder to acess your parallel port.. also you can download the 'paramon.exe' which is a great software to monitor your status of your parallel port..(also available on geekhideout.com)
+You need to download a io.dll file from geekhideout.com and paste it to your c:\Windows\System\ folder to acess your parallel port. 
 
+### More Info:
+You can download the 'paramon.exe' which is a great software to monitor your status of your parallel port.(also available on geekhideout.com)
 
 <span>             |<span>
 ---                |---

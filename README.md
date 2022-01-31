@@ -25,7 +25,7 @@ You can download the 'paramon.exe' which is a great software to monitor your sta
 **Compatibility**  |VB 5\.0, VB 6\.0
 **Category**       |[Complete Applications](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByCategory/complete-applications__1-27.md)
 **World**          |[Visual Basic](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByWorld/visual-basic.md)
-**Archive File**   |[simplified1927298252005\.zip](https://github.com/Planet-Source-Code/satish-surath-simplified-bluetooth-parallel-port-interface__1-62321/archive/master.zip)
+**Archive File**   |[simplified1927298252005\.zip](https://github.com/nomadic-me/Simplified-bluetooth-parallel-port-interface/archive/master.zip)
 
 
 
